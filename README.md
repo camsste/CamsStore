@@ -1,2 +1,2 @@
 # CamsStore
-Atividade para
+Usando somente HTML para atividade de criação de tabela
